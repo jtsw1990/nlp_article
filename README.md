@@ -1,4 +1,5 @@
 # Analytics Snippet: Natural Language Processing Text Classification
+by Jonathan Tan
 
 Click on the link below to open and run interactively in Binder.
 
