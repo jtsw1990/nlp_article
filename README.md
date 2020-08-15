@@ -1,5 +1,8 @@
 # Analytics Snippet: Natural Language Processing Text Classification
-by Jonathan Tan
+
+Article for the Actuaries Insitute, Actuaries Digital (Data Analytics) column 
+
+https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/
 
 Click on the link below to open and run interactively in Binder.
 
